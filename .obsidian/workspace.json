@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4814c862a0fdc7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT Notes/Memory Pegged.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT Notes/Windows Malware Removal Tool.md",
+                "file": "IT Notes/Memory Pegged.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT Notes/Windows Malware Removal Tool.md",
+                "file": "IT Notes/Memory Pegged.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT Notes/Windows Malware Removal Tool.md"
+                "file": "IT Notes/Memory Pegged.md"
               }
             }
           }
@@ -159,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6c6d2a6f29c8923",
+  "active": "0ef8a11f6f8c1392",
   "lastOpenFiles": [
-    "IT Notes/WIndows God Mode.md",
     "IT Notes/Windows Malware Removal Tool.md",
+    "IT Notes/WIndows God Mode.md",
     "IT Notes/Scripts/Windows 10 Super Tool.md",
     "IT Notes/Scripts/Windows Os Scan.md",
     "Windows Os Scan.md",
