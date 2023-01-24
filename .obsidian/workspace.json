@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7ed75172ceb023b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT Notes/Acrobat crashes intermittently on Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49f2001f33eed09a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT Notes/7 Fixes for the Outlook Stuck on Loading Profile Problem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT Notes/Scripts/Windows Os Scan.md",
+                "file": "IT Notes/7 Fixes for the Outlook Stuck on Loading Profile Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT Notes/Scripts/Windows Os Scan.md",
+                "file": "IT Notes/7 Fixes for the Outlook Stuck on Loading Profile Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT Notes/Scripts/Windows Os Scan.md"
+                "file": "IT Notes/7 Fixes for the Outlook Stuck on Loading Profile Problem.md"
               }
             }
           }
@@ -171,13 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4814c862a0fdc7df",
+  "active": "49f2001f33eed09a",
   "lastOpenFiles": [
+    "IT Notes/Windows Malware Removal Tool.md",
+    "IT Notes/7 Fixes for the Outlook Stuck on Loading Profile Problem.md",
+    "IT Notes/Acrobat crashes intermittently on Windows.md",
+    "IT Notes/Scripts/Windows Os Scan.md",
     "IT Notes/Scripts/Windows 10 Super Tool.md",
     "IT Notes/WIndows God Mode.md",
     "IT Notes/Memory Pegged.md",
-    "IT Notes/Windows Malware Removal Tool.md",
-    "IT Notes/Scripts/Windows Os Scan.md",
     "Windows Os Scan.md",
     "Notes/Test.md"
   ]
