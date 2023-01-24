@@ -1,4 +1,4 @@
-
+7 Fixes for the Outlook Stuck on Loading Profile Problem
 ========================================================
 
 BY[AMIR M. BOHLOOLI](https://www.makeuseof.com/author/amir-bohlooli/?_locale=en)
