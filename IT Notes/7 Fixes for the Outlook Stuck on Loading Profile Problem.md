@@ -7,8 +7,6 @@ UPDATED APR 18, 2022
 
 Are you experiencing problems with Outlook's loading profiles screen? Check out these solutions and fix this issue.
 
-Readers like you help support MUO. When you make a purchase using links on our site, we may earn an affiliate commission. [Read More.](https://www.makeuseof.com/page/terms-of-use/)
-
 Microsoft's Outlook is a great asset and offers an arsenal of features. With Outlook, you get an email, calendar, contacts, and much more, all in a single app. Yet, like all other apps, Outlook isn't flawless and runs into issues at times.
 
 One of these issues is when you can't open the app, and it gets stuck on the Loading Profile screen. This can be quite frustrating, as you can't even get into the app to figure out what's wrong with it. Fortunately, this issue also has a remedy. Getting stuck on Loading Profile can be a result of several problems, and there are plenty of solutions for it.
