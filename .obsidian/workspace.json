@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows Os Scan.md",
+                "file": "IT Notes/Scripts/Windows Os Scan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df93ca7c3c35f4c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT Notes/Scripts/Windows Os Scan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows Os Scan.md",
+                "file": "IT Notes/Scripts/Windows Os Scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows Os Scan.md",
+                "file": "IT Notes/Scripts/Windows Os Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows Os Scan.md"
+                "file": "IT Notes/Scripts/Windows Os Scan.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3482c2a22df71b5c",
+  "active": "df93ca7c3c35f4c0",
   "lastOpenFiles": [
+    "Parents Printer (MFC-L2685DW).md",
+    "IT Notes/Scripts/Windows Os Scan.md",
     "IT Notes/Scripts/Windows 10 Super Tool.md",
-    "Windows Os Scan.md",
     "Notes/Test.md"
   ]
 }
