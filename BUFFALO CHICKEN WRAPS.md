@@ -1,0 +1,1 @@
+4-5oz chicken Franks Buffalo sauce to taste 1 light laughing cow 30g cheddar or other low calorie shredded cheese 2 tbs light caesar dressing **Mix all ingredients until well combined in a bowl ** add to a low calorie wrap, have on a salad or enjoy on it’s own!

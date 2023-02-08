@@ -1,0 +1,1 @@
+300g cashew milk 1 scoop protein Stevia to taste 1/4 tsp Xanthum gum 210g frozen fruit A lot of ice (estimated 3 cups) **Blend all together until forms a thick smoothie. This will take some time to get the right consistency. You will need a spatula to help push ingredients down in blender.
