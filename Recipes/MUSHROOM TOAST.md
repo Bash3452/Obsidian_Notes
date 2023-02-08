@@ -1,0 +1,2 @@
+
+- Fresh Rosemary - 2 Cloves Garlic - Mushroom Medley (Oyster, Cremini, Shiitake) - Low Calorie Bread - Ricotta Cheese - Salt & Pepper to taste **Dice up your mushrooms into small bite size pieces ** Add mushrooms to a pre heated pan. Add in rosemary, salt and pepper and let cook down. ** Once Mushrooms are close to finished, add in your chopped garlic and cook for an additional 3 minutes ** Lightly toast your bread on a pan ** Spread a thick layer of ricotta cheese onto your toast then top with your mushroom medley ** Serve & enjoy!
