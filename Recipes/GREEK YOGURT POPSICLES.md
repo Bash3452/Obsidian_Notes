@@ -1,0 +1,1 @@
+- 1/2 cup frozen fruit of choice - 1/2 cup greek yogurt - 1/2 scoop protein powder - 1 tsp honey ** Microwave fruit for 60-90 seconds ** Mix in greek yogurt, protein powder and honey with fruit and combine well ** Place in your popsicle molds & refrigerate for up to 2 hours before serving

@@ -1,0 +1,1 @@
+- 150g Bread - 250g Egg Whites - 1/2 tsp garlic powder, onion powder, dried oregano - Salt to taste - 6-8oz ground meat - 1 cup strained tomatoes - 60g Part skim cheese ** Mix egg whites with your seasoning and submerge bread and cook like traditional french toast ** top your french toast with your meat and tomato sauce mixture ** sprinkle with cheese and broil until golden brown
