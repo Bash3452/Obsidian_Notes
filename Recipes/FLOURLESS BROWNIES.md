@@ -1,1 +1,3 @@
 - 2 cups puree pumpkin (can use mashed bananas or sweet potato) - 1 cup PB2 - 1/4 cup stevia - 1/2 cup cocoa powder ** Combine all ingredients and bake @350 degrees for 25 minutes Brownie frosting ingredients: - 1 scoop Blue Star Chocolate peanut butter protein - 2 tablespoons PB2 - 1 tablespoon stevia - Cashew milk ** Combine all ingredients in a bowl. Use as much cashew milk as you need to create a thick and smooth frosting.
+
+https://www.youtube.com/watch?v=6gtLFKe4aQI

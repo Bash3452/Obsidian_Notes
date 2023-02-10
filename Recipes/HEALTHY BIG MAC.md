@@ -1,1 +1,3 @@
 Patty ingredients: - 4oz lean turkey - 4oz lean ground beef - 1 egg - 1 tablespoon G Hughes ketchup - 1/4 cup diced onion - 1/4 cup fresh parsley - 20-30 grams part skim cheese - Fresh or powdered garlic - Salt & pepper to taste ** Combine all ingredients in a bowl (careful not to overwork the meat) ** Form into patties and sear both sides (try not to flip more than once) Big Mac sauce ingredients: - 1 tablespoon 0% Greek yogurt - 1 tablespoon Miracle whip - 1 tablespoon G Hughes ketchup - 1 teaspoon pickle relish - 1/2 teaspoon apple cider vinegar - Salt to taste ** Combine all ingredients in a bowl and ready to serve
+
+https://www.youtube.com/watch?v=6gtLFKe4aQI
