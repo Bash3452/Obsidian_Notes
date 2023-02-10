@@ -1,0 +1,1 @@
+- Half and avocado - Half a lime - 1 clove garlic - 1 cup cilantro - 1/4 cup water - 1/4 cup 0% Greek yogurt - Salt & Pepper to taste ** Combine all ingredients and blend until smooth
